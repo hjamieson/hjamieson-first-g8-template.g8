@@ -1,6 +1,6 @@
 // give the user a nice default project!
 ThisBuild / organization := "org.hugh"
-ThisBuild / scalaVersion := "2.13.0"
+ThisBuild / scalaVersion := "2.13.8"
 
 lazy val root = (project in file(".")).
   settings(
